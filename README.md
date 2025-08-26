@@ -1,6 +1,6 @@
-#🔐 Anonymous Payment System
+🔐 Anonymous Payment System
 
-##📜 Project Description
+📜 Project Description
 
 The Anonymous Payment System is a privacy-focused payment network built on the Stacks blockchain using Clarity smart contracts. This system implements untraceable transactions and mixing protocols to ensure financial privacy for users. The system allows users to deposit tokens into an anonymous pool and withdraw them through different addresses, effectively breaking the transaction trail and providing enhanced privacy protection.
 
@@ -11,7 +11,7 @@ Key features include:
 - **Commitment-Based Security**: Uses cryptographic commitments to prevent double-spending while maintaining anonymity
 - **Liquidity Pools**: Maintains sufficient liquidity for anonymous transactions
 
-##🔭 Project Vision
+🔭 Project Vision
 
 Our vision is to create a decentralized, privacy-first payment infrastructure that gives users complete control over their financial privacy. In an increasingly surveilled digital world, we believe that financial privacy is a fundamental right. The Anonymous Payment System aims to:
 
@@ -21,7 +21,7 @@ Our vision is to create a decentralized, privacy-first payment infrastructure th
 - **Create a Privacy Standard**: Establish new standards for privacy-preserving financial applications in the DeFi ecosystem
 - **Empower Individual Sovereignty**: Give users complete control over their financial data and transaction history
 
-##🚀 Future Scope
+🚀 Future Scope
 
 The Anonymous Payment System is designed to evolve into a comprehensive privacy infrastructure with the following planned enhancements:
 
