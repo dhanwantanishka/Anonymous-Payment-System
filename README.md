@@ -52,8 +52,10 @@ The Anonymous Payment System is designed to evolve into a comprehensive privacy 
 
 ## Contract Address Details
 Contract ID : ST1H764C5E56AXE02XKWHT56HGXZP9P1T71FTZ6SX.anonymous-payment-system
+
 <img width="1890" height="898" alt="image" src="https://github.com/user-attachments/assets/9fb4141a-d539-4068-bb62-612b88975e92" />
 ---
+
 
 **⚠️ Privacy Notice**: This system is designed for legitimate privacy use cases. Users are responsible for complying with applicable laws and regulations in their jurisdiction. The developers do not encourage or support any illegal activities.
 
