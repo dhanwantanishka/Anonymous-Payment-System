@@ -50,7 +50,7 @@ The Anonymous Payment System is designed to evolve into a comprehensive privacy 
 - **Quantum Resistance**: Prepare for quantum-safe cryptographic algorithms
 - **Audit & Security**: Regular security audits and bug bounty programs
 
-## Contract Address Details
+📃 Contract Address Details
 Contract ID : ST1H764C5E56AXE02XKWHT56HGXZP9P1T71FTZ6SX.anonymous-payment-system
 
 <img width="1890" height="898" alt="image" src="https://github.com/user-attachments/assets/9fb4141a-d539-4068-bb62-612b88975e92" />
