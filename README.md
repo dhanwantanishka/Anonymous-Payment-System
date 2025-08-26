@@ -71,4 +71,6 @@ Explorer: [Stacks Explorer link to be added]
 
 ⚠️ Privacy Notice: This system is designed for legitimate privacy use cases. Users are responsible for complying with applicable laws and regulations in their jurisdiction. The developers do not encourage or support any illegal activities.
 🔒 Security Notice: While this system implements strong privacy protections, users should always practice good operational security (OPSEC) and understand the privacy limitations of blockchain technology.
+
+
 <img width="483" height="677" alt="Screenshot 2025-08-26 111756" src="https://github.com/user-attachments/assets/9138f353-71d1-4da8-8baa-a402c0100c7c" />
