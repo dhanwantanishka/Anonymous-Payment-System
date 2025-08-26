@@ -53,22 +53,6 @@ The Anonymous Payment System is designed to evolve into a comprehensive privacy 
 ## Contract Address Details
 Contract ID : ST1H764C5E56AXE02XKWHT56HGXZP9P1T71FTZ6SX.anonymous-payment-system
 <img width="1890" height="898" alt="image" src="https://github.com/user-attachments/assets/9fb4141a-d539-4068-bb62-612b88975e92" />
-
-**Contract deployment information will be added here upon mainnet deployment**
-
-- **Network**: Stacks Mainnet
-- **Contract Address**: [To be added after deployment]
-- **Deployment Block**: [To be added after deployment]
-- **Contract Version**: v1.0.0
-- **Token Name**: Anonymous Token (ANON)
-- **Minimum Mix Amount**: 1,000,000 micro-tokens (1 ANON)
-- **Mixing Fee**: 1,000 micro-tokens (0.001 ANON)
-
-### Testnet Information
-- **Testnet Address**: [To be added after testnet deployment]
-- **Faucet**: [Testnet faucet link to be provided]
-- **Explorer**: [Stacks Explorer link to be added]
-
 ---
 
 **⚠️ Privacy Notice**: This system is designed for legitimate privacy use cases. Users are responsible for complying with applicable laws and regulations in their jurisdiction. The developers do not encourage or support any illegal activities.
